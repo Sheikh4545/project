@@ -1,0 +1,19 @@
+{
+    "ValidUser":[
+        {
+            "username":"alinewtester",
+            "password":"KD57L6",
+            "expectedMessage":"Welcome to Adactin Group of Hotels"
+        },
+        {
+            "username": "",
+            "password": "",
+            "expectedMessage":"error in login empty credentials"      
+        },
+        {
+            "username": "AbidSaeed01",
+            "password": "LY6G8E",
+            "expectedMessage":"Welcome to Adactin Group of Hotels"
+        }
+    ]
+}

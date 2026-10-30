@@ -1,0 +1,15 @@
+{
+    "BookingData":[
+        {
+            "FirstName": "Faizan",
+            "LastName":"Ali",
+            "BillingAddress":"123 Main St, City, Country",
+            "CreditCardNo":"1234567812345678",
+            "CreditCardType":"VISA",    
+            "ExpiryMonth":"January",
+            "ExpiryYear":"2025",
+            "CVVNumber":"123"
+
+        }
+    ]
+}

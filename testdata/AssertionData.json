@@ -1,0 +1,34 @@
+{
+   
+    "assertions": [
+    {
+        "url": "https://adactinhotelapp.com/",
+        "login_url": "https://adactinhotelapp.com/SearchHotel.php",
+        "search_hotel_url": "https://adactinhotelapp.com/SearchHotel.php",
+        "select_hotel_url": "https://adactinhotelapp.com/SelectHotel.php",
+        "book_hotel_url": "https://adactinhotelapp.com/BookHotel.php",
+        "booking_confirm_url": "https://adactinhotelapp.com/BookingConfirm.php",
+        "my_itinerary_url": "https://adactinhotelapp.com/BookedItinerary.php",
+        "logout_url": "https://adactinhotelapp.com/Logout.php",
+        "error_msg" : "Invalid Login details or Your Password might have expired.",
+        "username_required_msg": "Enter Username",
+        "password_required_msg": "Enter Password",
+        "location_error": "Please Select a Location",
+        "room_nos_error": "Please Select Total Number of Rooms",
+        "checkin_error": "Please Select Check-In Date",
+        "checkout_error": "Please Select Check-Out Date",
+        "adult_room_error": "Please Select Adults per Room",
+        "first_name": "Please Enter your First Name",
+        "last_name": "Please Enter your Last Name",
+        "address": "Please Enter your Address",
+        "cc_num": "Please Enter your 16 Digit Credit Card Number",
+        "cc_type": "Please Select your Credit Card Type",
+        "cc_exp_month": "Please Select your Credit Card Expiry Month",
+        "cc_exp_year": "Please Select your Credit Card Expiry Year",
+        "cc_cvv": "Please Enter your Credit Card CVV Number"
+    }
+]
+}
+
+ 
+ 
